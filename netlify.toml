@@ -1,4 +1,4 @@
 [build]
-base = "client"
+base = "pmia-explorer"
+publish = "pmia-explorer"
 command = "npm run build"
-publish = "client/.net"
